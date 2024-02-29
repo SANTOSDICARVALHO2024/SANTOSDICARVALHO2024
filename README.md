@@ -1,10 +1,10 @@
-## **README do Perfil GitHub - @SANTOSDICARVALHO2024**
 
-** Olá!**
+
+ Olá!
 
 Sou o Santos, um desenvolvedor web em formação com **paixão por aprender e colaborar.
 
-**️ Habilidades:**
+Habilidades:
 
 * HTML5, CSS3 e JavaScript
 * Bootstrap 5
@@ -25,15 +25,11 @@ Sou o Santos, um desenvolvedor web em formação com **paixão por aprender e co
 * Projetos open-source
 * Equipes que buscam um(a) desenvolvedor(a) dedicado(a)
 
-**✉️ Contato:**
-
-
-
 ⚡ Curiosidade:
 
-Ex Enfermeiro, Supervisor de Segurança e Produtor Musical resolvi avançar ainda mais na tecnologia adentrando a pouco na área enbarcando com alegria nesta área migrando da enfermagem para a tecnologia e já aproveitando as inumeras benésses de poder criar meus proprios programinhas que já me ajudam nas tarefas do dia - a dia... Sou desejoso de aprender e colaborar com meus serviços e construir uma rede sólida de pessoas de valor, onde possamos criar,aprender, e desenvolver juntos melhorias tecnológicas com nossos microsserviços...
+Ex Enfermeiro, Supervisor de Segurança e Produtor Musical resolvi avançar ainda mais na tecnologia adentrando a pouco na área enbarcando com alegria nesta área migrando da enfermagem para a tecnologia e já aproveitando as inumeras benésses de poder criar meus proprios programinhas que já me ajudam nas tarefas do dia - a - dia... Sou desejoso de aprender e colaborar com meus serviços e construir uma rede sólida de pessoas de valor, onde possamos criar,aprender, e desenvolver juntos melhorias tecnológicas com nossos micro-serviços...
 
-Fascinado por Automação e tecnologia que resolva problemas práticos do dia - a dia  e que possa melhorar facilitando  a vida das pessoas com sistemas e programas uteis de verdade na vida das pessoas.
+Fascinado por Automação e tecnologia que resolva problemas práticos do dia - a - dia  e que possa melhorar facilitando  a vida das pessoas com sistemas e programas uteis de verdade na vida das pessoas.
 
 ** Oportunidades:**
 
